@@ -112,11 +112,14 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github-square"
       url: "https://github.com/negfir"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/negfir"
+    - label: "Goodreads"
+      icon: "fab fa-goodreads"
+      url: "https://www.goodreads.com/negfir"
 
 # Site Footer
 footer:
