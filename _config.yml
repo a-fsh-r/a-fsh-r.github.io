@@ -87,7 +87,7 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : "UA-33531986-2"
+    tracking_id          : "UA-177520498-1"
     anonymize_ip         : false (default)
 
 
