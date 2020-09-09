@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Negin Firouzian"
-  avatar           :  "/assets/images/unnamed.jpg"
+  avatar           :  "/assets/images/profile.JPG"
   bio              : "Graduate student <br /> McGill University"
   location         : #"Somewhere"
   email            :
@@ -102,24 +102,20 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:negin.firouzian@mail.mcgill.ca"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/negfir"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/negfir/"
     - label: "GitHub"
       icon: "fab fa-github-square"
       url: "https://github.com/negfir"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/negfir"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/negfir"
     - label: "Goodreads"
       icon: "fab fa-goodreads"
       url: "https://www.goodreads.com/negfir"
+
+
 
 # Site Footer
 footer:
