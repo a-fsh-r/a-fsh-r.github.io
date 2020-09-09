@@ -88,7 +88,7 @@ analytics:
   provider               : "google-gtag"
   google:
     tracking_id          : "UA-177520498-1"
-    anonymize_ip         : false (default)
+    anonymize_ip         :  false
 
 
 # Site Author
