@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a first-year MSc student of Electrical and Computer Engineering at McGill University, supervised by
-professor <br/> [Brett Meyer](http://rssl.ece.mcgill.ca/). Previously I received my BSc in Computer Engineering from the Amirkabir University of Technology.
+professor <br/> [Brett Meyer](http://rssl.ece.mcgill.ca/people/#bretthmeyer). Previously I received my BSc in Computer Engineering from the Amirkabir University of Technology.
 
 
 
