@@ -18,5 +18,5 @@ I am a first-year MSc student of Electrical and Computer Engineering at McGill U
 
 * Machine Learning
 * Computer Architecture
-* Embedded and Real-time Systems
+* Embedded and Real-Time Systems
 * Hardware Acceleration
