@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,6 +17,6 @@ I am a first-year MSc student of Electrical and Computer Engineering at McGill U
 ### Research Interests
 
 * Machine Learning
-* Computer Architecture
+* Edge Intelligence
+* Multi-Objective Optimization
 * Embedded and Real-Time Systems
-* Hardware Acceleration
