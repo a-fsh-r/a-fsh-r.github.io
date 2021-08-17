@@ -18,5 +18,6 @@ I am a first-year MSc student of Electrical and Computer Engineering at McGill U
 
 * Machine Learning
 * Edge Intelligence
+* Natural Language Processing
 * Multi-Objective Optimization
-* Embedded and Real-Time Systems
+
