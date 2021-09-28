@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a first-year MSc student of Electrical and Computer Engineering at McGill University. Currently, I'm working under the supervision of professor Brett Meyer at [McGill Edge Intelligence Lab (MEIL)](http://meil.ece.mcgill.ca/). Previously I received my BSc in Computer Engineering from the Amirkabir University of Technology.
+I am a second-year MSc student of Electrical and Computer Engineering at McGill University. Currently, I'm working under the supervision of professor Brett Meyer at [McGill Edge Intelligence Lab (MEIL)](http://meil.ece.mcgill.ca/). Previously I received my BSc in Computer Engineering from the Amirkabir University of Technology.
 
 
 
