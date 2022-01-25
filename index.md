@@ -17,10 +17,7 @@ I am a second-year MSc student of Electrical and Computer Engineering at McGill 
 ### Research Interests
 
 * Machine Learning
-<<<<<<< HEAD
-=======
 * Edge Intelligence
->>>>>>> caba001e90616961d7d2907a4e4a3a061e83c2ff
 * Natural Language Processing
 * Multi-Objective Optimization
 
