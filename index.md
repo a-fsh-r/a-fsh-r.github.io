@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a first-year MSc student of Electrical and Computer Engineering at McGill University. I'm working under the supervision of professor [Brett Meyer](http://rssl.ece.mcgill.ca/people/#bretthmeyer) at McGill Edge Intelligence Lab (MEIL). Previously I received my BSc in Computer Engineering from the Amirkabir University of Technology.
+I am a second-year MSc student of Electrical and Computer Engineering at McGill University. Currently, I'm working under the supervision of professor Brett Meyer at [McGill Edge Intelligence Lab (MEIL)](http://meil.ece.mcgill.ca/). Previously I received my BSc in Computer Engineering from the Amirkabir University of Technology.
 
 
 
@@ -17,6 +17,10 @@ I am a first-year MSc student of Electrical and Computer Engineering at McGill U
 ### Research Interests
 
 * Machine Learning
+<<<<<<< HEAD
+=======
+* Edge Intelligence
+>>>>>>> caba001e90616961d7d2907a4e4a3a061e83c2ff
 * Natural Language Processing
 * Multi-Objective Optimization
-* Embedded and Real-Time Systems
+
