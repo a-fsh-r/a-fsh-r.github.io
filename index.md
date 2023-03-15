@@ -24,6 +24,6 @@ I'm a Master of Science student in the field of Bioinformatics at [Sharif Univer
 * An Introduction To Bioinformatics
 * Genetics and Evolution
 * Cellular and Molecular Biology
-* Biology Laboratory [Iran University of Medical Sciences](https://en.iums.ac.ir/)
+* Biology Laboratory [Iran University of Medical Sciences]([https://en.iums.ac.ir/](https://en.iums.ac.ir/iums%20shools/School-of-Medicine--))
 * Computational Drug Design
 * Digital Signal Processing
