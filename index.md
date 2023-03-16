@@ -19,11 +19,11 @@ I'm a Master of Science student in the field of Bioinformatics at [Sharif Univer
 * Deep Learning, Computer Vision
 * Explainable AI (XAI), Interpretable ML (IML)
 
-### Courses - GPA: 19.35 (4/4) until now
+### Courses (GPA: 4/4) until now
 
 * An Introduction To Bioinformatics
 * Genetics and Evolution
 * Cellular and Molecular Biology
-* Biology Laboratory [Iran University of Medical Sciences]([https://en.iums.ac.ir/](https://en.iums.ac.ir/iums%20shools/School-of-Medicine--))
+* Biology Laboratory [(Iran University of Medical Sciences)]([https://en.iums.ac.ir/](https://en.iums.ac.ir/iums%20shools/School-of-Medicine--))
 * Computational Drug Design
 * Digital Signal Processing
