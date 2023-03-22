@@ -27,3 +27,6 @@ I am a Master of Science student in Bioinformatics at [Sharif University of Tech
 * Biology Laboratory [(Iran University of Medical Sciences)]([https://en.iums.ac.ir/](https://en.iums.ac.ir/iums%20shools/School-of-Medicine--))
 * Computational Drug Design
 * Digital Signal Processing
+* Machine Learning for Bioinformatics (ongoing)
+* Structural Bioinformatics (ongoing)
+* Analysis of Biological Networks (ongoing)
