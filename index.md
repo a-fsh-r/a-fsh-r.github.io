@@ -12,7 +12,7 @@ redirect_from:
 I am a Master of Science student in Bioinformatics at [Sharif University of Technology](https://en.sharif.edu/). Currently, I’m working under the supervision of professor [Emad Fatemizadeh](https://ee.sharif.edu/~fatemizadeh/) at Biomedical Signal and Image Processing Lab (BiSIPL).
 
 
-### Research areas (Intrested, but not limited to)
+### Research Interests
 
 * Bioinformatics, Bioimage Informatics
 * Microscopy and Medical Image Analysis
