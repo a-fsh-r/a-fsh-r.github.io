@@ -15,9 +15,9 @@ I am a Master of Science student in Bioinformatics at [Sharif University of Tech
 ### Research areas (Intrested, but not limited to)
 
 * Bioinformatics, Bioimage Informatics
-* Biomedical Image Analysis and Processing
+* Microscopy and Medical Image Analysis
 * Deep Learning, Computer Vision
-* Explainable AI (XAI), Interpretable ML (IML)
+* Explainable AI (XAI), Interpretable ML/DL
 
 ### Courses (GPA: 4/4) until now
 
