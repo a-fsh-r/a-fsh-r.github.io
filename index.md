@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "FSH"
+excerpt: "Afshar"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /Afshar/
+  - /Afshar.html
 ---
 
 
