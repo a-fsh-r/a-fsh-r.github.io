@@ -17,6 +17,3 @@ I am a Master of Science student in Bioinformatics at [Sharif University of Tech
 * Deep Learning, Computer Vision
 * Image Processing, Biomedical and Medical Image Analysis
 * Explainable AI (XAI), Interpretable ML/DL
-
-
-[afshaar@ce.sharif.edu](mailto:afshaar@ce.sharif.edu)
