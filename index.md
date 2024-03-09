@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Afshar"
 excerpt: "Afshar"
 author_profile: true
 redirect_from:
