@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Afshar"
+title: "About:"
 excerpt: "Afshar"
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 ## Hi there! 👋🏻
 
-I’m a **Graduate Research Assistant** and **Master of Science student** in **Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/). I am passionate about combining the fields of bioinformatics, machine learning, and medical imaging to explore innovative solutions in healthcare and life sciences.
+I’m a **Graduate Research Assistant** and **Master of Science student** in **Computer Engineering, Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/). I am passionate about combining the fields of bioinformatics, machine/deep learning, and medical imaging to explore innovative solutions in healthcare and life sciences.
 
 Currently, I am engaged in research at two exciting laboratories:
 
