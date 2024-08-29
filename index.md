@@ -19,7 +19,7 @@ Currently, I am engaged in research at two exciting laboratories:
   *Electrical Engineering Department*  
   Under the supervision of Professor [Emad Fatemizadeh](https://ee.sharif.edu/~fatemizadeh/), I am working on cutting-edge projects in biomedical signal and image processing.
 
-- **[Robust and Interpretable Machine Learning Laboratory (RIML)](http://sharif.ir/~rohban/)**  
+- **[Robust and Interpretable Machine Learning Laboratory (RIML)](https://rohban-lab.github.io/)**  
   *Computer Engineering Department*  
   Supervised by Professor [Mohammad Hossein Rohban](http://sharif.ir/~rohban/), my research focuses on developing robust and interpretable machine learning models.
 
