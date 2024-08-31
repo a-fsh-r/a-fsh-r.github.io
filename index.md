@@ -21,7 +21,7 @@ Currently, I am engaged in research at two labs:
 
 - **[Robust and Interpretable Machine Learning Laboratory (RIML)](https://rohban-lab.github.io/)**  
   *Computer Engineering Department*  
-  Supervised by Professor [Mohammad Hossein Rohban](http://sharif.ir/~rohban/).
+  Under the supervision of Professor [Mohammad Hossein Rohban](http://sharif.ir/~rohban/).
 
 ### 🧠 Research Interests
 
