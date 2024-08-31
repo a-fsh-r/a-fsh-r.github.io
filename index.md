@@ -11,17 +11,17 @@ redirect_from:
 
 ## Hi there! 👋🏻
 
-I’m a **Graduate Research Assistant** and **Master of Science student** in **Computer Engineering, Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/). I am passionate about combining the fields of bioinformatics, machine/deep learning, and medical imaging to explore innovative solutions in healthcare and life sciences.
+I’m a **Graduate Research Assistant** and **Master of Science student** in **Computer Engineering, Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/).
 
-Currently, I am engaged in research at two exciting laboratories:
+Currently, I am engaged in research at two labs:
 
 - **[Biomedical Signal and Image Processing Laboratory (BiSIPL)](https://ee.sharif.edu/~fatemizadeh/)**  
   *Electrical Engineering Department*  
-  Under the supervision of Professor [Emad Fatemizadeh](https://ee.sharif.edu/~fatemizadeh/), I am working on cutting-edge projects in biomedical signal and image processing.
+  Under the supervision of Professor [Emad Fatemizadeh](https://ee.sharif.edu/~fatemizadeh/).
 
 - **[Robust and Interpretable Machine Learning Laboratory (RIML)](https://rohban-lab.github.io/)**  
   *Computer Engineering Department*  
-  Supervised by Professor [Mohammad Hossein Rohban](http://sharif.ir/~rohban/), my research focuses on developing robust and interpretable machine learning models.
+  Supervised by Professor [Mohammad Hossein Rohban](http://sharif.ir/~rohban/).
 
 ### 🧠 Research Interests
 
