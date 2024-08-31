@@ -8,9 +8,6 @@ redirect_from:
   - /Afshar.html
 ---
 
-
-## Hi there! 👋🏻
-
 I’m a **Graduate Research Assistant** and **Master of Science student** in **Computer Engineering, Bioinformatics** at [Sharif University of Technology](https://en.sharif.edu/).
 
 Currently, I am engaged in research at two labs:
